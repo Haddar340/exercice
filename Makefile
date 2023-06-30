@@ -1,5 +1,2 @@
-CC=gcc
-CFLAGS=-I.
-
-ex1: ex1.o 
-     $(CC) -o ex1 ex1.o
+ex1: ex1.c
+gcc -o ex1.c -I
