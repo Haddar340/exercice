@@ -31,3 +31,18 @@ ex4: ex4.c
 
 ex3: ex3.c
 	$(cc) -o ex3 ex3.c
+
+ex13: ex13.c
+	$(cc) -o ex13 ex13.c
+
+ex14: ex14.c
+	$(cc) -o ex14 ex14.c
+
+ex15: ex15.c
+	$(cc) -o ex15 ex15.c
+
+ex16: ex16.c
+	$(cc) -o ex16 ex16.c
+
+ex17: ex17.c
+	$(cc) -o ex17 ex17.c
