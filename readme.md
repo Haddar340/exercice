@@ -1,2 +1,2 @@
 add readme file
-i add a make file for compilation
+add a make file for every folder 
